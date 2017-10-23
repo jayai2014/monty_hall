@@ -2,7 +2,7 @@
 
 By Dafu Ai
 
-My approach simply simulates a large number of trials for either decision (keep or switching choice).
+My approach simply simulates a large number of random games for either decision (keep or switching choice).
 
 With `sample_run()` function, we receieves the following output:
 
