@@ -4,7 +4,7 @@ By Dafu Ai
 
 My approach simply simulates a large number of random games for either decision (keep or switching choice).
 
-With `sample_run()` function, we receieves the following output:
+With the `sample_run()` function in [main.py](https://github.com/jayai2014/monty_hall/blob/master/main.py), I have the following output:
 
 ```
 AVERAGE: Winning rate = 0.334 for keeping choice.
