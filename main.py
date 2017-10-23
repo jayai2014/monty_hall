@@ -1,6 +1,7 @@
 """
 Monty Hall game analysis by simulation
 By Dafu Ai  Oct 2017
+Tested in Python 3.6.3
 """
 
 import random
